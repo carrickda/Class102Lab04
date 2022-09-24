@@ -4,14 +4,49 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title></title>
+        <title>My LOL page</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="">
     </head>
     <body>
+        <header>
+            <Img src="http://placehold.it/300x200"/>
+            
+        </header>
+
+           <h2>What is League of Legends?</h2>
+        <p>
+            League of Legnds is a Multiplayer Online Battle Areana (MOBA) video game where each person controls a champion from a third person persepective. There are two different maps, Sumner's Rift amd Howling Abyss. The goal of each map is the same, to destroy the ememy nexus. Along the way each team needs to destroy enemy turrents and inhibitors before the nexus is exposed and can be destroyed. Each team is comprised of five team members. Each team member controls a champion which has some form of an auto attack along with skills that are unique to them and are used ingame by pressing q, w, e, and r. 
+        </p>
         
-        
-        <script src="" async defer></script>
+            <h2>Roles of Team Members</h2>
+        <p>
+            Jungle - The jungler starts off in the jungle part of the map killing the jungle monsters. His job is to help his team's laners. He does this by ganking them and trying to help them get ahead of their opponent.
+
+            Top Laner - They are in the top lane and they try to kill the enemy and destroy the top turrents.
+
+            Mid Laner - They are in the mid lane and they try to kill the enemy and destroy the mid turrents.
+
+            Bottom Laner or ADC - They are in the bottom lane and are the person supposed to do the most damage on the team. There Goal is also to kill the enemy and destroy the enemy turrents in the bottom lane.
+
+            Support - They start in the Bottom lane with the ADC but raom around the map helping the other lanes if possible. unlike the jungler they do not kill jungle monsters when roaming. 
+        </p>    
+
+            <h2>Champion builds</h2>
+
+            Here are some links to sights to champion builds people use in the game.
+
+            <a href="u.gg">u.gg</a>                   <a href="op.gg">op.gg</a>
+
     </body>
+
+        <footer>
+            <p>links to download the game, watch professional's play the game and information about myself in regards to the game</p>
+            
+        <a href="https://signup.leagueoflegends.com/en-us/signup/redownload?page_referrer=index">Download game</a>
+        <a href="https://lolesports.com/">watch Pro games</a>
+        <a href="https://carrickda.github.io/Lab04part2/">My League Stuff</a>
+        </footer>
+    
 </html>
