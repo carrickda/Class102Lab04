@@ -7,11 +7,11 @@
         <title>My LOL page</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="">
+        <link rel="stylesheet" href="/CSS/style.css">
     </head>
     <body>
         <header>
-            <Img src="http://placehold.it/300x200"/>
+            <Img src="images/league of legends.png">
             
         </header>
 
@@ -35,18 +35,20 @@
 
             <h2>Champion builds</h2>
 
-            Here are some links to sights to champion builds people use in the game.
+            <p>Here are some links to sights to champion builds people use in the game.</p>
 
-            <a href="u.gg">u.gg</a>                   <a href="op.gg">op.gg</a>
+            <a href="u.gg">u.gg</a>
+            <a href="op.gg">op.gg</a>
 
+
+            <footer>
+                <h2>Other links</h2>
+                
+            <a href="https://signup.leagueoflegends.com/en-us/signup/redownload?page_referrer=index">Download game</a>
+            <a href="https://lolesports.com/">watch Pro games</a>
+            <a href="https://carrickda.github.io/Lab04part2/">My League Stuff</a>
+            </footer>
     </body>
 
-        <footer>
-            <p>links to download the game, watch professional's play the game and information about myself in regards to the game</p>
             
-        <a href="https://signup.leagueoflegends.com/en-us/signup/redownload?page_referrer=index">Download game</a>
-        <a href="https://lolesports.com/">watch Pro games</a>
-        <a href="https://carrickda.github.io/Lab04part2/">My League Stuff</a>
-        </footer>
-    
 </html>
