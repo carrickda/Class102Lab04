@@ -75,3 +75,24 @@ function showOrder() {
 }
 showOrder();
 
+let userInput = prompt('How many Champions do you want to see? choose 1 - 5');
+let userInputParsed = parseInt(userInput);
+
+if (!isNaN(userInputParsed)){
+    console. log('thank you')
+} else{
+    userInputParsed = parseInt(prompt('A number between 1 and 5 please'));
+}
+console.log('user input parsed? ', userInputParsed);
+
+
+for(let i = 0; i < userInputParsed; i++) {
+let listImage = document.createElement('li');
+console.log('list li', listImage);
+listImage.textContent = `image number ${i + 1}`;
+let image = document.createElement('img');
+image.setAttribute('src', 'images/Ashe.jpg' );
+listImage.appendChild(image);
+console.log(listImage);
+imageElement.appendChild(listImage);    
+}
